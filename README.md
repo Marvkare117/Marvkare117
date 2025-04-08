@@ -1,4 +1,4 @@
-# 👋 Hola, soy @Marvkare117
+# 👋 Hola, soy Miguel Ángel Reyes 
 
 ## 👀 Estoy interesado en...
 - Desarrollo web
